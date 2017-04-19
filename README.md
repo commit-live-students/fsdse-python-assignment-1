@@ -1,4 +1,4 @@
-# Python Programming Basics - Assignment 1
+# Python Programming Basics - Assignment
 
 ### Problem Statement: 
 
