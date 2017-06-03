@@ -5,6 +5,7 @@ def squareOfNumbers(x):
         for i in range(1,x+1):
             d.update ({i:i**2})
         return d
+        print d
     else:
         print "Out of range"
-squareOfNumbers(2)
+print squareOfNumbers(2)
