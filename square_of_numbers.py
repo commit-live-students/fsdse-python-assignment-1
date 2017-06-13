@@ -6,4 +6,5 @@ def squareOfNumbers(n):
     dict1 = {}
     for i in range(1, n+1):
         dict1.update({i: i ** 2})
+        
     return dict1
